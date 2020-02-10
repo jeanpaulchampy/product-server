@@ -4,9 +4,9 @@ Guide de déploiement et d'utilisation
 
 # Déploiement du serveur
 
-Git clone
-https://github.com/jeanpaulchampy/product-server
-Importer  la base de donnée
+Git clone<br/>
+https://github.com/jeanpaulchampy/product-server<br/>
+Importer  la base de donnée<br/>
 Installer les packages avec la commande:
 ```
 npm install
@@ -22,8 +22,8 @@ npm test
 
 # Déploiement du client
 
-Git clone
-https://github.com/jeanpaulchampy/tastycloud-client
+Git clone<br/>
+https://github.com/jeanpaulchampy/tastycloud-client<br/>
 Installer les packages avec la commande:
 ```
 npm install
