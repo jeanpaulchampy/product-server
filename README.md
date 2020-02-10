@@ -32,3 +32,4 @@ lancer l'application avec la commande:
 ```
 npm start
 ``` 
+L'application se trouve à l'adresse localhost:3000
